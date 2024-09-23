@@ -1,33 +1,34 @@
 <h1 align="center">Hi 👋, I'm Bindu Cattamanchi</h1>
 <h3 align="center">A passionate Data Engineer</h3>
 
+
+
 <p align="center">
   <img width="600" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdidmgxN3A1Mnoxa3dhc3BqeHd1czgxb3I3bXJpbzk4NW16emNnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp">
 </p>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binducattamanchi" alt="binducattamanchi" /></a> </p>
+
 
 - 📫 How to reach me **binduc2907@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/u/binduc2907/" target="blank"><img align="center" src="![image](https://github.com/user-attachments/assets/4fa8a88d-18a4-4f07-9c06-9dc9173b59d5)
-" alt="binduc2907" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/binduc2907/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4D12AQHJ9CMupIzJIw/article-cover_image-shrink_600_2000/0/1680074638934?e=2147483647&v=beta&t=_-I1hGOZLx187ZWruORVg8fUY-AS_zJ_Jqwcps5bWAw" alt="binduc2907" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/user-attachments/assets/4d1733bf-72be-4d56-bd42-c32cb9dca2a9)" alt="spark" width="40" height="40"/> </a> 
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.azul.com/wp-content/uploads/2021/03/technologies-spark.png" alt="spark" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/user-attachments/assets/149f97c7-9ff6-43b1-9c57-7217ced77399)" alt="hadoop" width="40" height="40"/> </a> 
-  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/user-attachments/assets/4ecefa61-a3b5-4027-ade8-d4c5c1967c0f)" alt="hive" width="40" height="40"/> </a> 
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/user-attachments/assets/a0f5e901-2fc7-420f-81a7-9874ebed0bde)" alt="kafka" width="40" height="40"/> </a> 
-  <a href="https://oozie.apache.org/" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/user-attachments/assets/f0681eaf-42eb-4b7f-8afa-e2ecc7bf20a6)" alt="oozie" width="40" height="40"/> </a> 
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/user-attachments/assets/c285a104-069c-4909-bdc5-d59d471a9582)" alt="Airflow" width="40" height="40"/> </a> 
-  <a href="https://www.teradata.com/" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/user-attachments/assets/6587ea8e-00a0-4a2e-8cab-24cad7f4a383)" alt="Teradata" width="40" height="40"/> </a> 
-  <a href="https://databricks.com/" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/user-attachments/assets/70898c5f-0bd0-4589-b17b-e3f30a28850f)" alt="Databricks" width="40" height="40"/> </a>
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://exitcondition.com/wp-content/uploads/2018/08/Apache-Hadoop-e1550546317173.jpg" alt="hadoop" width="40" height="40"/> </a> 
+  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1200px-Apache_Hive_logo.svg.png" alt="hive" width="40" height="40"/> </a> 
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Apache_kafka-icon.svg/1200px-Apache_kafka-icon.svg.png" alt="kafka" width="40" height="40"/> </a> 
+  <a href="https://oozie.apache.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:496/1*uoVl2GcziNS1uEHIt9wlOg.png" alt="oozie" width="40" height="40"/> </a> 
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/airflow-icon-2048x2048-ptyvisqh.png" alt="Airflow" width="40" height="40"/> </a> 
+  <a href="https://www.teradata.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROFKxN5ouHmQvjvoI4JR5TBbTuiG_AUd9Fhw&s" alt="Teradata" width="40" height="40"/> </a> 
+  <a href="https://databricks.com/" target="_blank" rel="noreferrer"> <img src="https://yt3.googleusercontent.com/_7KEqCHnfwYCkZmPrEAinVpFFKpvyK9IGcHDsZtaj68aCOi6Ige1Zl3B6MjHZUuurc-WjEv1tVM=s900-c-k-c0x00ffffff-no-rj" alt="Databricks" width="40" height="40"/> </a>
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
@@ -53,6 +54,7 @@
   <img src="https://komarev.com/ghpvc/?username=binducattamanchi&style=for-the-badge&color=blue" alt=""/>
 </div>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binducattamanchi" alt="binducattamanchi" /></a> </p>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
