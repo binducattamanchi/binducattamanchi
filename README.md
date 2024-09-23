@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Data Engineer</h3>
 
 <p align="center">
-  <img width="600" src="![image][(https://github.com/user-attachments/assets/71670a27-2b3e-4218-b4b8-6a31f944d178)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdidmgxN3A1Mnoxa3dhc3BqeHd1czgxb3I3bXJpbzk4NW16emNnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp)
-">
+  <img width="600" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdidmgxN3A1Mnoxa3dhc3BqeHd1czgxb3I3bXJpbzk4NW16emNnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp">
 </p>
 
 
