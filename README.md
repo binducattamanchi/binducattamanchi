@@ -56,6 +56,3 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binducattamanchi" alt="binducattamanchi" /></a> </p>
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
