@@ -16,6 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/u/binduc2907/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4D12AQHJ9CMupIzJIw/article-cover_image-shrink_600_2000/0/1680074638934?e=2147483647&v=beta&t=_-I1hGOZLx187ZWruORVg8fUY-AS_zJ_Jqwcps5bWAw" alt="binduc2907" height="30" width="40" /></a>
+  
+<a href="https://www.linkedin.com/in/bindu-c-20981b16/" target="blank"><img align="center" src="https://t3.ftcdn.net/jpg/04/37/88/86/360_F_437888641_XrjjuAwATXWNx10jQurCDaXXJnobhDi4.jpg" alt="bindu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
